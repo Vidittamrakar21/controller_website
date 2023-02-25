@@ -1,5 +1,5 @@
 
-        const loadImage = ["ps4-controller-png-42098.png","ps4-controller-png-42099.png","ps4-controller-png-42109.png"]
+       const loadImage = ["ps4-controller-png-42098.png","ps4-controller-png-42099.png","ps4-controller-png-42109.png"]
 
         const changeImage = document.querySelector(".second-section .interactive-image .colours");
 
