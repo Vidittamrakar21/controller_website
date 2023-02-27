@@ -330,6 +330,18 @@ section .card-three .sub-three {
     padding: 8px 10px;
     font-size: 1rem;
   }
+	.second-section .colours-button .first:hover {
+    background-color: rgb(46, 45, 45);
+   cursor: pointer;
+  }
+  .second-section .colours-button .second:hover {
+    background-color: rgb(177, 177, 177);
+      cursor: pointer;
+}
+.second-section .colours-button .third:hover {
+  background-color: rgb(210, 5, 5);
+  cursor: pointer;
+}
 
   section .card-one p {
     font-size: 0.7rem;
